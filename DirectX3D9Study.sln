@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectX3D9Study", "DirectX3D9Study\DirectX3D9Study.vcxproj", "{CD9153EF-A299-487D-8754-2D1687C627F9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectX3D9Study01", "DirectX3D9Study01\DirectX3D9Study01.vcxproj", "{CD9153EF-A299-487D-8754-2D1687C627F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
