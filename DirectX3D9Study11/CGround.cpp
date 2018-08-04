@@ -116,5 +116,4 @@ VOID CGround::OnRelease()
 	{
 		m_pVB->Release();
 	}
-
 }
